@@ -1,0 +1,111 @@
+MESSAGE: attention_layer of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: bnn of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: clstm_like.small of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: conv_layer of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: conv_layer_hls of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: dla_like.small of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: eltwise_layer of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: lstm of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: reduction_layer of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: robot_rl of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: softmax of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: spmv of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: tiny_darknet_like.small of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: tpu_like.medium of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: tpu_like.small of ./static/basechannel114_res.csv not in carelist, ignored
+MESSAGE: bnn of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: reduction_layer of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: conv_layer_hls of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: spmv of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: dla_like.small of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: conv_layer of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: eltwise_layer of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: clstm_like.small of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: tpu_like.medium of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: tpu_like.small of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: softmax of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: lstm of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: robot_rl of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: tiny_darknet_like.small of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: attention_layer of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: maxChannelWidth of ./static/andlutchannel114_res.csv not in baseline, ignored
+MESSAGE: bnn of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: reduction_layer of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: conv_layer_hls of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: clstm_like of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: spmv of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: conv_layer of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: eltwise_layer of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: dla_like of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: tpu_like of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: tiny_darknet_like of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: softmax of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: lstm of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: robot_rl of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: attention_layer of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+MESSAGE: maxChannelWidth of ./static/andanddlutRvpr114_res.csv not in baseline, ignored
+
+abcNplb abcLev vprDelay vprAreaClb vprAreaRouting vprNclb channelWidth vprtime 
+=============  ./static/andlutchannel114_res.csv  ============
+__avg__ :                        null, null, -5.9, -3.9, -5.3, -4.2, null, -3.9, 
+arm_core :                       null, null, -11.8, -3.5, -8.9, -4.1, null, -10.0, 
+bgm :                            null, null, -10.8, -0.6, -0.0, -0.7, null, 0.9, 
+blob_merge :                     null, null, -10.6, -9.5, -12.3, -9.4, null, -10.7, 
+boundtop :                       null, null, 0.3, -1.2, -17.3, -1.1, null, -10.7, 
+LU32PEEng :                      null, null, null, null, null, -5.0, null, 2.8, 
+LU8PEEng :                       null, null, -12.1, -3.7, -3.8, -4.4, null, -2.9, 
+mcml :                           null, null, -3.2, 0.3, 0.0, 0.4, null, 2.6, 
+mkDelayWorker32B :               null, null, 13.7, -1.2, 0.3, -2.2, null, -0.3, 
+mkPktMerge :                     null, null, -5.3, 0.0, 0.1, 0.0, null, 2.9, 
+mkSMAdapter4B :                  null, null, 2.3, -7.3, -0.1, -9.4, null, -3.1, 
+or1200 :                         null, null, -6.3, -4.1, 0.1, -4.6, null, -5.1, 
+raygentop :                      null, null, 0.1, 0.4, -0.1, 0.6, null, 2.0, 
+sha :                            null, null, -15.0, -24.0, -18.8, -24.0, null, -10.4, 
+spree :                          null, null, -7.4, -2.5, 0.1, -3.6, null, 5.7, 
+stereovision0 :                  null, null, -11.1, -0.2, -0.3, -0.2, null, 0.8, 
+stereovision1 :                  null, null, 3.2, -1.1, -0.4, -1.5, null, -20.3, 
+stereovision2 :                  null, null, -4.1, 1.6, 0.0, 2.8, null, 0.8, 
+stereovision3 :                  null, null, -21.4, -9.4, -28.3, -9.1, null, -15.2, 
+
+=============  ./static/andanddlutRvpr114_res.csv  ============
+__avg__ :                        null, null, -7.9, -5.0, -6.1, -5.7, null, 1.7, 
+arm_core :                       null, null, -5.2, -4.4, -8.9, -5.3, null, -2.0, 
+bgm :                            null, null, -11.6, -7.8, -8.5, -8.0, null, 4.6, 
+blob_merge :                     null, null, -10.1, -8.6, -12.3, -8.6, null, -12.2, 
+boundtop :                       null, null, 1.5, -1.2, -17.3, -1.1, null, -5.7, 
+LU32PEEng :                      null, null, null, null, null, -10.6, null, 25.3, 
+LU8PEEng :                       null, null, -13.7, -7.4, -9.8, -8.8, null, 3.4, 
+mcml :                           null, null, -12.3, 0.5, 0.0, 0.8, null, 34.2, 
+mkDelayWorker32B :               null, null, 9.8, -1.2, 0.3, -2.2, null, -17.4, 
+mkPktMerge :                     null, null, -5.3, 0.0, 0.1, 0.0, null, 4.3, 
+mkSMAdapter4B :                  null, null, -10.3, -9.3, -0.1, -11.9, null, -3.0, 
+or1200 :                         null, null, -5.3, -4.4, 0.1, -5.0, null, -1.7, 
+raygentop :                      null, null, 2.4, -0.5, -0.1, -0.6, null, 13.2, 
+sha :                            null, null, -17.0, -26.7, -27.7, -26.7, null, -15.0, 
+spree :                          null, null, -9.6, -4.1, 0.1, -6.0, null, -2.1, 
+stereovision0 :                  null, null, -15.4, -0.7, -0.3, -0.7, null, -25.8, 
+stereovision1 :                  null, null, -0.8, 2.8, 9.2, 3.4, null, 9.2, 
+stereovision2 :                  null, null, -8.0, 1.3, 0.0, 2.2, null, 29.8, 
+stereovision3 :                  null, null, -23.0, -14.0, -28.3, -13.6, null, -7.6, 
+
+=============  ./static/base_res_lut7_114.csv  ============
+__avg__ :                        -8.8, -14.9, -5.0, -7.3, -7.4, -7.8, null, 22.1, 
+arm_core :                       -9.0, -16.0, -8.3, -6.2, -8.9, -7.4, null, -4.3, 
+bgm :                            -2.6, -13.6, -6.9, -2.5, -2.9, -2.6, null, -30.1, 
+blob_merge :                     -16.4, -11.1, -15.7, -14.7, -12.3, -14.6, null, -21.0, 
+boundtop :                       -1.3, 0.0, -1.5, -1.2, -17.3, -1.1, null, 142.3, 
+LU32PEEng :                      -8.0, -15.5, null, null, null, -6.5, null, -43.4, 
+LU8PEEng :                       -8.3, -15.5, -13.9, -6.2, -7.0, -7.4, null, -8.6, 
+mcml :                           -4.4, -16.0, -6.9, -3.4, -5.2, -4.4, null, -48.7, 
+mkDelayWorker32B :               -2.6, 0.0, 21.5, -1.2, 0.3, -2.2, null, -7.2, 
+mkPktMerge :                     -0.8, -50.0, 7.5, 0.0, 0.1, 0.0, null, 65.6, 
+mkSMAdapter4B :                  -8.4, -14.3, 2.8, -4.6, -0.1, -5.9, null, 26.2, 
+or1200 :                         -12.1, -14.8, -7.3, -7.8, 0.1, -9.0, null, -1.7, 
+raygentop :                      -4.0, -12.5, null, null, null, -4.3, null, 56.1, 
+sha :                            -30.9, -19.0, -15.4, -31.0, -27.7, -31.0, null, -58.8, 
+spree :                          -9.3, -13.3, 2.5, -3.3, 0.1, -4.8, null, 89.7, 
+stereovision0 :                  -2.2, -20.0, -10.9, -2.6, -4.8, -2.5, null, -26.2, 
+stereovision1 :                  -7.4, 0.0, 0.8, -5.5, -5.0, -7.0, null, -8.7, 
+stereovision2 :                  -5.6, -11.8, -1.5, -3.7, 0.0, -6.0, null, -26.9, 
+stereovision3 :                  -24.5, -25.0, -26.5, -23.0, -28.3, -22.7, null, 303.8, 
+
